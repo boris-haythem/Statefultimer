@@ -1,0 +1,30 @@
+.dynamic {
+    display: flex;
+    justify-content: center;
+  }
+  .time {
+    display: flex;
+    flex-direction: column;
+  }
+  .dynamicspan {
+    font-size: 30px;
+    margin: 10px;
+    font-weight: bold;
+  }
+  .staticspan {
+    margin: 10px;
+    color: gray;
+  }
+  .btn{
+    background-color: transparent;
+    border-radius: 5px;
+    border: 1px solid blue;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin-left:10px
+  
+  }
